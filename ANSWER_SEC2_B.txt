@@ -1,0 +1,49 @@
+Q1)
+For B
+FE 09 [1.5 points]
+00 20 [1.5 points]
+FF 04 [2 points]
+Q2)
+Yes.
+Q3)
+<html>
+<head>
+<title>Cool Recipes</title>
+</head>
+<body bgcolor="#FFBBBB">
+<h2><i>Cool Hamburger Ingredients</i></h2>
+<img src="bgrB.png" width="300" height="367">
+<ol>
+<li><b>Bun</b>
+<ul>
+<li>Flour</li>
+<li>Water</li>
+<li>Sugar</li>
+<li>Salt</li>
+<li>Yeast mixture</li>
+</ul>
+</li>
+<br>
+<li><b>Patty</b>
+<ul>
+<li>Ground meat</li>
+<li>Onion</li>
+<li>Salt</li>
+<li>Black pepper</li>
+<li>Spices</li>
+</ul>
+</li>
+<br>
+<li><b>General Ingredients</b>
+<ul>
+<li>Lettuce</li>
+<li>Tomato</li>
+<li>Cheese</li>
+<li>Ketchup</li>
+<li>Mayonnaise</li>
+<li>Pickles</li>
+</ul>
+</li>
+</ol>
+</body>
+</html>

@@ -1,0 +1,50 @@
+Q1)
+For A
+R4 05 [1.5 points]
+FF 04 [2 points]
+R1 04 [1.5 points]
+Q2)
+Yes.
+Q3)
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Recipes</title>
+</head>
+<body bgcolor="#FFCCFF">
+<h1>Cute Hamburger Ingredients</h1>
+<img src="bgrA.png" width="168" height="300" align="right">
+<ul>
+<li><i>Bun UwU</i>
+<ol>
+<li>Flour</li>
+<li>Water <b>(I love it!)</b></li>
+<li>Sugar</li>
+<li>Salt <b>(Yuck!)</b></li>
+<li>Yeast mixture</li>
+</ol>
+</li>
+<br>
+<ol>
+<li><i>Patty OwO</i>
+<li>Ground meat</li>
+<li>Onion <b>(Smelly!)</b></li>
+<li>Salt</li>
+<li>Black pepper</li>
+<li>Spices</li>
+</ol>
+</li>
+<br>
+<li><i>General Ingredients :3</i>
+<ul>
+<li>Lettuce</li>
+<li>Tomato</li>
+<li>Cheese</li>
+<li>Ketchup</li>
+<li>Mayonnaise</li>
+<li>Pickles <b>(No!)</b></li>
+</ul>
+</li>
+</ul>
+</body>
+</html>

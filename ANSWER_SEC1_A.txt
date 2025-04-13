@@ -1,0 +1,44 @@
+Q1)
+For A
+FE 03 [1.5 points]
+R4 05 [1.5 points]
+IR C000 [2 points]
+Q2)
+Yes.
+Q3)
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Cute Films</title>
+</head>
+<body background="backA.png">
+<img src="mveA.png" width="300" height="300">
+<h1 align=center><i>Movie List YEY</i></h3>
+<table border=3 align=center>
+<tr>
+<th><b>Title UwU</b></th>
+<th><b>Director OwO</b></th>
+<th><b>Year :3</b></th>
+<th><b>Genre x3</b></th>
+</tr>
+<tr>
+<td>Inception</td>
+<td>Christopher Nolan</td>
+<td><i>2010</i></td>
+<td>Science Fiction</td>
+</tr>
+<tr>
+<td>The Godfather</td>
+<td>Francis Ford Coppola</td>
+<td><i>1972</i></td>
+<td>Drama</td>
+</tr>
+<tr>
+<td>Parasite</td>
+<td>Bong Joon-ho</td>
+<td><i>2019</i></td>
+<td>Thriller</td>
+</tr>
+</table>
+</body>
+</html>

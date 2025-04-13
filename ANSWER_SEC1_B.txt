@@ -1,0 +1,44 @@
+Q1)
+For B
+FF 00 [1.5 points]
+IR C000 [2 points]
+FD 00 [1.5 points]
+Q2)
+Yes.
+Q3)
+<!DOCTYPE html>
+<html>
+<head>
+<title>Best Books</title>
+</head>
+<body background="backB.png">
+<h2 align="right">Book List</h2>
+<table border="5" align="center">
+<tbody>
+<tr>
+<th><b><i>Title</i></b></th>
+<th><b><i>Author</i></b></th>
+<th><b><i>Year</i></b></th>
+<th><b><i>Genre</i></b></th>
+<th><b><i>Pages</i></b></th>
+</tr>
+<tr>
+<td>1984</td>
+<td>George Orwell</td>
+<td>1949</td>
+<td>Dystopian</td>
+<td><b>328</b></td>
+</tr>
+<tr>
+<td>War and Peace</td>
+<td>Leo Tolstoy</td>
+<td>1869</td>
+<td>Historical</td>
+<td><b>1225</b></td>
+</tr>
+</tbody>
+</table>
+<br>
+</body>
+</html>
+<img src="mveB.png" width="307" height="450">
